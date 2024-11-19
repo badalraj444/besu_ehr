@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@ethereumjs/tx": "^5.4.0",
+    "ethereumjs-tx": "^2.1.2",
+    "fs-extra": "^11.2.0",
+    "solc": "^0.8.28",
+    "web3": "^4.14.0"
+  }
+}

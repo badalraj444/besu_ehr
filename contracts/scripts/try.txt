@@ -1,0 +1,6 @@
+>pre-deploying  contracts first and then try using
+>using hardhat like in tutorial
+>first trying the doc ditto
+>exploring hardhat insights and trying to mimic
+
+>run the scripts anyway, try changing things
